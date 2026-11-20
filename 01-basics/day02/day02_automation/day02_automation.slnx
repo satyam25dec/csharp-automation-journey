@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../day03_automation/day03_automation.csproj" />
+  <Project Path="../day04_automation/day04_automation/day04_automation.csproj" Id="3d966496-d49d-4d94-a41e-f35ad8e48889" />
+  <Project Path="day02_automation.csproj" />
+</Solution>
